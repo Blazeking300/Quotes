@@ -1,0 +1,43 @@
+.lazy {
+  background-color: black;
+  padding: 17px 25px;
+  font-size: 30px;
+  margin-top: 20px;
+}
+
+.lazy a {
+  color: white;
+}
+
+.big {
+	width: 300px;
+	height: 120px;
+  border: 2px solid black;
+	font-size: 25px;
+	font-weight: 700;
+  padding: 40px;
+  border-radius: 15px;
+	background-image: linear-gradient(to right,yellow, #ec8b3c);
+}
+
+.medium {
+	width: 300px;
+	height: 100px;
+  border: 2px solid black;
+	font-size: 25px;
+	font-weight: 700;
+  padding: 40px;
+  border-radius: 15px;
+  background-image: linear-gradient(to right, yellow, #ec8b3c);
+}
+
+.small {
+	width: 300px;
+	height: 100px;
+  border: 2px solid black;
+	font-size: 28px;
+	font-weight: 700;
+  padding: 40px;
+  border-radius: 15px;
+  background-image: linear-gradient(to right, yellow, #ec8b3c);
+}
